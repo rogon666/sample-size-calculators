@@ -6,4 +6,4 @@ Hemming, K., Girling, A. J., Sitch, A. J., Marsh, J., & Lilford, R. J. (2011). S
 
 https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/1471-2288-11-102
 
-<img src="./samplesizes.png"  width="500px" height="auto">
+<img src="./sample_sizes.png"  width="500px" height="auto">
